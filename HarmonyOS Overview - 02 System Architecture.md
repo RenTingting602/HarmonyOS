@@ -5,4 +5,4 @@ This architecture makes HarmonyOS both powerful and flexible and adaptable to a 
 
 Click the link to go to Huawei official website to learn the original video course：https://developer.huawei.com/consumer/en/training/course/video/101615349392300009
 
-![HarmonyOS System Architecture][(https://github.com/user-attachments/assets/525c91a3-86d5-4f23-89a2-a7384a80dc54)](https://developer.huawei.com/consumer/en/training/course/video/101615349392300009?ha_source=github&ha_sourceId=89000192)
+![HarmonyOS System Architecture](https://developer.huawei.com/consumer/en/training/course/video/101615349392300009?ha_source=github&ha_sourceId=89000192)
